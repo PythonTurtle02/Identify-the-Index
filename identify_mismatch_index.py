@@ -1,5 +1,3 @@
-# www.youtube.com/@pythonturtle
-
 text1 = "dhayajune2345678"
 text2 = "dhayajune2945678"
 
